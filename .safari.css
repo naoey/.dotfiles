@@ -1,0 +1,18 @@
+body, input {
+  font-family: SF Pro Text;
+}
+
+code, pre {
+  font-family: Operator Mono !important;
+  font-size: 14px;
+}
+
+@font-face {
+ font-family: monospace;
+ src: local('Operator Mono');
+}
+
+@font-face {
+  font-family: Monospace;
+  src: local('Operator Mono');
+}
